@@ -1,0 +1,92 @@
+/* Start - header */
+#topHeader{
+    border-bottom: 1px solid #ebebeb;
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem; /* 1 rem = 16 px */
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+/* End - header */
+
+/* Start - footer */
+.full-footer{
+    background-color: #243c4f;
+}
+.top-footer p{
+    color: white;
+}
+.top-footer a{
+    color: white;
+}
+.top-footer h3{
+    color: white;
+}
+.bottom-footer{
+    background-color: #031b2e;
+}
+.bottom-footer p{
+    color: white;
+}
+/* end - footer */
+
+/* Start - index Page */
+.Web-intro{
+    background-color: #3498db;
+    color: white;
+}
+.Web-intro a{
+    color: white;
+    font-weight: 600;
+}
+.requirements{
+    background-color: #004d80;
+    color: white;
+}
+.newsletter{
+    background-color: #004d80;
+    color: white;
+}
+.newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background-color: #243c4f;
+    color: white;
+}
+.clients{
+    background-color: #f0f0f0;
+}
+.services a{
+    font-weight: 700;
+}
+/* End - index Page */
+
+/* Start - ContactUs Page */
+.address p{
+    font-weight: 700;
+}
+/* End - ContactUs Page */
+
+/* Start - Services Page */
+.bar{
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 20px;
+    border: 3px solid rgb(35, 36, 37);
+}
+/* End - Services Page */
